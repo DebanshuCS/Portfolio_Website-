@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I embarked on my professional journey in Computer Science by establishing a solid groundwork in Data Structures and Algorithms. Building upon this foundation, I made a seamless transition into the dynamic realm of Web development. However, driven by a strong passion for leveraging data-driven insights, I have actively sought to expand my skill set and expertise in the field of data science. By doing so, I aim to equip myself with the necessary tools and knowledge to deliver comprehensive and impactful solutions that harness the power of data. For more information, please refer to my <a href='https://drive.google.com/file/d/1AH0yCv76_NJtx4MtIunhV6LgOWMD1QHD/view?usp=sharing'> Resume.</a>
+      I embarked on my professional journey in Computer Science by establishing a solid groundwork in Data Structures and Algorithms. Building upon this foundation, I made a seamless transition into the dynamic realm of Web development. However, driven by a strong passion for leveraging data-driven insights, I have actively sought to expand my skill set and expertise in the field of data science. By doing so, I aim to equip myself with the necessary tools and knowledge to deliver comprehensive and impactful solutions that harness the power of data.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
