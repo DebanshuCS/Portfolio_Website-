@@ -4,10 +4,10 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  {  text: 'Google Data Analytics Professional Certificate', },
-  {  text: 'Pro-Degree Data Science Certification, Verzeo', },
+  {  text: 'Google Data Analytics Professional Certificate'},
+  {  text: 'Verzeo-Microsoft, Pro Degree Data Science Certification'},
   {  text: 'Building Video AI Applications at the Edge on Jetson Nano, NVIDIA'},
-  {  text: 'LoR and Certificate of Competency in Ethical Hacking, MyCaptain'}, 
+  {  text: 'Certified Ethical Hacking Competency Credential from MyCaptain'}, 
 ];
 
 const Acomplishments = () => (
