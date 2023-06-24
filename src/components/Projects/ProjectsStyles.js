@@ -23,10 +23,10 @@ row-gap: 4rem;
 
 `
 export const BlogCard = styled.div`
-  border-radius: 100px;
+  border-radius: 80px;
   box-shadow: 3px 3px 20px rgba(8, 78, 78, 0.5);
   text-align: center;
-  width: 450px;
+  width: 460px;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
   }

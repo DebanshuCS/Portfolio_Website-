@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "EndemiCast",
-    description:"Epidemic models based on ordinary differential equations, which effectively describe dynamic systems in many fields of science. s a part of this project, US population data was utilized to model the potential spread of the coronavirus. Integrated state-of-the-art machine learning techniques and state estimation algorithms to better understand the dynamics of the pandemic system.",
+    description:"Epidemic models based on ordinary differential equations, which effectively describe dynamic systems in many fields of science. As part of this project, US population data was utilized to model the potential spread of the coronavirus. Integrated state-of-the-art machine learning techniques and state estimation algorithms to better understand the dynamics of the pandemic system.",
     tags: ["Statistical modeling", "Regression", "Random Forest", "Epidemiology"],
     visit: " https://deepnote.com/@debcs/Epidemic-Modelling-723c9eb1-0082-4202-85c7-a213bd467247",  
   },
