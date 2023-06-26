@@ -35,7 +35,7 @@ const Header = () =>  (
         <SocialIcons href="https://github.com/DebanshuCS">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://resumedeb.tiiny.site/">
+        <SocialIcons href="https://debsresume.tiiny.site/">
           <AiFillCloud size="3rem" />
         </SocialIcons>
         <SocialIcons href="https://www.linkedin.com/in/debanshu-das-b67390187/">

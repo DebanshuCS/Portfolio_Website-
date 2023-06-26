@@ -43,7 +43,7 @@ export const HeaderThree = styled.h3`
   font-weight: 500;
   letter-spacing: 1px;
   color: #9cc9e3;
-  padding: .8rem 0;
+  padding: .8rem 10;
   font-size: ${(props) => props.title ? '3.3rem' : '2rem'};
 `;
 
@@ -85,7 +85,7 @@ export const UtilityList = styled.ul`
   padding: 0;
   display: flex;
   justify-content: space-around;
-  margin: 3rem 0;
+  margin: 2rem 0;
 `;
 
 export const ExternalLinks = styled.a`
@@ -104,7 +104,7 @@ transition: 0.5s;
 export const TagList = styled.ul`
 display: flex ;
 justify-content: space-around;
-padding: 4rem;
+padding: 3.5rem;
 `
 export const Tag = styled.li`
 color: #d8bfbf;
