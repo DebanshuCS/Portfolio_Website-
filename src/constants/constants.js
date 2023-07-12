@@ -47,7 +47,7 @@ export const projects = [
 
 
 export const TimeLineData = [
-  { year: 2019, text: "I Started my career in the field of Computer Science from Xavier school of computer science." },
+  { year: 2019, text: "I Started my bachelor's degree in the field of CS from XIM University, SCSE." },
   {
     year: 2020,
     text: "I Acquired diverse programming language proficiency and skills during my college education.",
