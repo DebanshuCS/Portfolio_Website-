@@ -40,7 +40,7 @@ If you would like to explore the portfolio locally, follow these steps:
 The portfolio is built using the following technologies:
 
 - Next.js: A React framework for building server-rendered applications.
-- React: A JavaScript library for building user interfaces.
+- React A JavaScript library for building user interfaces.
 - HTML: The standard markup language for creating web pages.
 - CSS: A stylesheet language used for styling the HTML elements.
 - JavaScript: A programming language used to add interactivity and functionality to web pages.
@@ -51,10 +51,12 @@ Some of the notable features of the portfolio include:
 
 - Responsive design: The portfolio is designed to be accessible and visually appealing.
 - Interactive elements: It incorporates interactive components to engage visitors, such as animation effects.
-- Project showcase: I provide a dedicated section to showcase my past projects, including descriptions. and links to repositories.
+- Project Showcase: I provide a dedicated section to showcase my past projects, including descriptions. and links to repositories.
 - Contact information: Visitors can easily find my contact information, including email and social media handle, to get in touch with me.
 
 ## Deployment
+
+![Screenshot 2023-08-22 000238](https://github.com/DebanshuCS/Portfolio_Website-/assets/118846871/53b7658f-4104-47e6-bd9f-331784e82157)
 
 The portfolio has been deployed through [Vercel](https://vercel.com/) platform. You can visit the live version of my portfolio at [https://website-debanshucs.vercel.app/](https://website-3ywcok1ou-debanshucs.vercel.app/).
 
