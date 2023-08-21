@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-This is my personal portfolio website built using Next.js. It showcases information about me, my career timeline, and my knowledge and field of interest. The portfolio, `debasnhu.me` is designed to provide an overview of my professional background, skills, and projects I have worked on. It serves as a comprehensive introduction to my work and serves as a platform to share my accomplishments and aspirations.
+This is my personal portfolio website built using Next.js. It showcases information about me, my career timeline, and my knowledge and field of interest. The portfolio, [debanshu.me](https://debanshu.me/) is designed to provide an overview of my professional background, skills, and projects I have worked on. It serves as a comprehensive introduction to my work and serves as a platform to share my accomplishments and aspirations.
 
 ## Table of Contents
 
