@@ -49,7 +49,7 @@ The portfolio is built using the following technologies:
 
 Some of the notable features of the portfolio include:
 
-- Responsive design: The portfolio is designed to be accessible and visually appealing.
+- Immersive design: The portfolio is designed to be more visually appealing.
 - Interactive elements: It incorporates interactive components to engage visitors, such as animation effects.
 - Project Showcase: I provide a dedicated section to showcase my past projects, including descriptions. and links to repositories.
 - Contact information: Visitors can easily find my contact information, including email and social media handle, to get in touch with me.
