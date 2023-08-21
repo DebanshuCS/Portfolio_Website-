@@ -26,7 +26,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/debanshu-das-b67390187/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://debsresume.tiiny.site/">
+          <SocialIcons href="https://teal-samaria-7.tiiny.site">
             <AiFillCloud size="3rem" />
           </SocialIcons>
         </SocialContainer>

@@ -58,7 +58,7 @@ export const TimeLineData = [
   },
   {
     year: 2022,
-    text: "I have accomplished over 13 projects in the field of deep learning and machine learning, fostering my expertise and capability in this domain.",
+    text: "I have accomplished over 18+ projects in the field of deep learning and machine learning, fostering my expertise and capability in this domain.",
   },
-  { year: 2023, text: " I have achieved the successful completion of my thesis on rumor detection using deep learning, demonstrating my proficiency in this specialized area of research." },
+  { year: 2023, text: " I have achieved the successful completion of my thesis on rumor detection using deep learning, demonstrating my proficiency in this specialized area of research. " },
 ];
