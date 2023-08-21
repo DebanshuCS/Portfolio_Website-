@@ -6,7 +6,6 @@ This is my personal portfolio website built using Next.js. It showcases informat
 
 - [About Me](#about-me)
 - [Career Timeline](#career-timeline)
-- [Knowledge and Field of Interest](#knowledge-and-field-of-interest)
 - [Getting Started](#getting-started)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -20,10 +19,6 @@ In this section of the portfolio, I provide a brief introduction of myself. I hi
 ## Career Timeline
 
 The career timeline section outlines my professional journey, including my past experiences, current position, and any notable achievements along the way. I present this information in a visually appealing and easy-to-understand manner, allowing visitors to grasp the progression of my career and the skills I have acquired along the way.
-
-## Knowledge and Field of Interest
-
-In this section, I describe my areas of expertise and my field of interest. I outline the technologies, programming languages, frameworks, and tools that I am proficient in. Additionally, I share any ongoing learning or personal projects that demonstrate my dedication to professional growth and my passion for staying up-to-date with the latest industry trends.
 
 ## Getting Started
 
